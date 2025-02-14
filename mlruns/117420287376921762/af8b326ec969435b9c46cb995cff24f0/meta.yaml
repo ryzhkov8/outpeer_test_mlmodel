@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ryzhk/Desktop/py_projects/ml_model/outpeer_test_mlmodel/mlruns/117420287376921762/af8b326ec969435b9c46cb995cff24f0/artifacts
+end_time: 1739543670697
+entry_point_name: ''
+experiment_id: '117420287376921762'
+lifecycle_stage: active
+run_id: af8b326ec969435b9c46cb995cff24f0
+run_name: beautiful-kite-147
+run_uuid: af8b326ec969435b9c46cb995cff24f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739543666789
+status: 3
+tags: []
+user_id: ryzhk
